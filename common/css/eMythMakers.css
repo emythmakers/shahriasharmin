@@ -132,7 +132,7 @@ p{margin-bottom:0;font-size:13px;line-height:26px;color: #888888;}
 	.mobile-head .nav-item .dropdown-item{ font-weight: 300; color: #888888; font-size: 16px; }
 	.dropdown-menu[data-bs-popper]{ margin-top: 0; }
 	.body-images-wrap { margin-left: 0; padding-top: 100px; }
-	.body-images-wrap img { width: 100%; height:unset; margin:0; }
+	.body-images-wrap img { width: 100%; height:unset; margin:0; position: unset;}
 	#container .post { padding-left: 40px; }
  }
  
@@ -149,7 +149,7 @@ p{margin-bottom:0;font-size:13px;line-height:26px;color: #888888;}
 	.contact-details{ text-align: start;}
 	.mobile-head .dropdown-menu{ border-radius: unset;}
 	.body-images-wrap { margin-left: 0; padding-top: 100px; }
-	.body-images-wrap img { width: 100%; height:unset; margin:0; }
+	.body-images-wrap img { width: 100%; height:unset; margin:0; position: unset;}
 	#container .post {
 		padding-left: 40px;
 	}
