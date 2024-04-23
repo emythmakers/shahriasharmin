@@ -95,16 +95,14 @@ p{margin-bottom:0;font-size:13px;line-height:26px;color: #888888;}
 .footer-bottom .side-footer-area ul li a{ color: #494949; } 
 
 /* work-page */
-#container .post .content { width: 880px; float: left; }
+/* #container .post .content {} */
 #container .post{display:inline-flex; padding: 100px; padding-left: 280px; position: absolute; top: 0; height:98.8vh;}
 .imageElement { height: 100%; margin-right:40px;}
 .imageElement img{ height: 100%; }
 .imageElement .Video-wrap{ position: relative; overflow: hidden; width:122vh; padding-top: 56.25%; }
 .imageElement .Video-wrap video{ position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
 
-.content .column { height:63vh; column-fill: auto; column-gap:40px; column-count: 2; margin-right: 40px; }
-.content .colum-second{height:75vh; column-count:2;}
-.content .column p { margin-bottom: 20px; }
+#container .post .column {width:400px; margin-right: 40px; }
 #container .post .column p { padding: 0; line-height: 22px; font-size: 12px; }
 
 /* fancybox */

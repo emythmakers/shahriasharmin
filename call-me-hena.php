@@ -50,9 +50,13 @@
 	<div id="container">
 		<div class="post">
 			<div class="content">
-				<div class="colum-first column">
+				<div class="column">
 					<p>Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+				</div>
+				<div class="column">
 					<p>The project features Hijras in Bangladesh, as well as a number of Hijras who migrated to India. While Hijras continue to face discrimination once in India, some have found greater social acceptance than in Bangladesh. At the same time, many Hijras in Bangladesh and other South Asian countries have stood up for their rights and gained at least limited legal recognition</p>
+				</div>
+				<div class="column">
 					<p>for a third gender. I hope my work will help amplify Hijra voices that are largely quieted, and inspire Hijras to open even more space for themselves within Bangladeshi society.</p>
 				</div>
 			</div>

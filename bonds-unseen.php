@@ -50,9 +50,13 @@
 				<div id="container">
 					<div class="post">
 						<div class="content">
-							<div class="colum-four column">
+							<div class="column">
 								<p>In the heart of societal shadows, “<span>Bonds Unseen</span>” sheds light on the unexplored dynamics within the intimate relationships of mothers and daughters in brothels. This photo series uncovers resilience, love, and shared hardship in the challenging context of brothel life. The project’s genesis lies in my mother’s untimely death during the Covid pandemic in the United States. My guilt for not bringing her back to Bangladesh led me to rural corners, where I encountered elderly sex workers abandoned by families and society. Their stories mirrored my own struggle with guilt, creating a bond between us. I aimed to give them a voice and combat societal judgment through my lens. “Bonds Unseen” is a testament to human resilience, bridging my suffering with theirs. Salt and rice starch play a profound role in the photographs, symbolizing tears, trials, and sustenance. They invite viewers to delve into the profound human experiences captured. My visual storytelling is immersive, capturing emotions through close-up portraits, textures, and intricate details. Alternative printing techniques with salt and rice starch infuse the subjects’ realities into each photograph. The focus on skin texture is a prominent feature, revealing stories of hardship, resilience, and the inexorable passage of time. These photographs forge an intimate connection with viewers, fostering empathy for those living on society’s margins.</p>
-                                		<p>Bangladeshi sex workers represent a diverse demographic, often driven into the trade due to limited education and socioeconomic challenges.</p>
+							</div>
+							<div class="column">
+								<p>Bangladeshi sex workers represent a diverse demographic, often driven into the trade due to limited education and socioeconomic challenges.</p>
+							</div>
+							<div class="column">
 								<p>Health issues like HIV/AIDS and societal stigma further marginalize them. The legal status of sex work in Bangladesh is complex, leading to exploitation and harassment. Human trafficking is also a pressing concern. Within brothels, elderly sex worker women transition into roles as cleaners and caretakers of young sex workers adding complexity to their lives. “Bonds Unseen” is a testament to the indomitable human spirit, offering healing and redemption for those forsaken by society.</p>
 							</div>
 						</div>
