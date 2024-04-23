@@ -8,8 +8,8 @@ $sDeveloper="eMythMakers.com";
 $sEmail="info@mail.com";
 
 //Local
-$sSiteURL="http://localhost/shahriasharmin/demo2/";
-$sCurrURL="http://localhost/shahriasharmin/demo2".$_SERVER["REQUEST_URI"];
+$sSiteURL="http://localhost/shahriasharmin/";
+$sCurrURL="http://localhost/shahriasharmin".$_SERVER["REQUEST_URI"];
 
 //Web
 // $sSiteURL="https://www.emythmaker.com/project/Template/Personal/shahriasharmin/Demo4/";
