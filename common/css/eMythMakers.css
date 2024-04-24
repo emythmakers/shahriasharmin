@@ -103,7 +103,7 @@ p{margin-bottom:0;font-size:13px;line-height:26px;color: #888888;}
 
 
 #container .post .content {display: flex;}
-#container .post .column {width:400px; margin-right: 40px; height: 100%;}
+#container .post .column {width:400px; margin-right: 40px; height: 100%; overflow: hidden;}
 #container .post .column p { padding: 0; line-height: 22px; font-size: 12px; }
 
 /* fancybox */

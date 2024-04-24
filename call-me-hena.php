@@ -51,14 +51,32 @@
 		<div class="post">
 			<div class="content">
 				<div class="column">
-					<p>Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>1. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>2. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>3. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>4. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>5. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>6. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>7. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>10. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>11. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>12. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>13. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<p>14. Hijra is a South Asian term with no exact match in the English language. Hijras are people designated male or intersex at birth who adopt a feminine gender identity. Often mislabeled as hermaphrodites, eunuchs, or transsexuals in literature, Hijras can be considered to fall under the umbrella term transgender, but many prefer the term third gender. Traditionally, Hijras held semi sacred status and were hired to sing, dance, and bless newly married couples or newborns at household parties. Earnings were pooled through the guru system, in which Hijras declare allegiance to a guru and submit to group rules, in exchange for financial and social security. Growing up in Bangladesh, I was influenced by predominant prejudices and stereotypes about Hijras. Then, I met Heena, who opened her life to me and helped me get to know the other members of her community as the mothers, daughters, friends, and lovers that they are. Call Me Heena is my attempt to show the beauty in Hijra lives, despite the challenges and discrimination they face.</p>
+					<!-- <p>Yasmin who waited for her husband for four years saw him just for a glimpse. The day he returned from Malaysia, he was executed by Myanmar military with their two sons. That same day, this 23-year old was raped that gave her a child in the refugee camp. A child whose loving face reminds not of her husband but of terror. There was no trace of hope, only despair and a great deal of anger against the whole world. A world that did nothing to save them from ethnic cleansing, which eventually became a full-blown genocide in Myanmar, 2017. </p>
+					<p>723,000 Rohingyas fled to Bangladesh from brutal violence back home in Aug, 2017. Together with influxes of 1970’s through the 1980s and 1990s, this recent wave almost completely uprooted them from Myanmar. There are about 1.1 million Rohingyas in Bangladesh now. Cox’s Bazaar became one of the largest refugee concentrations in the world almost overnight. While they say they are indigenous of Rakhine, the Myanmar government claims that Rohingyas are Bangladeshi immigrants. Once elected to the Myanmar parliament, Rohingyas are no longer even considered citizens.&nbsp;</p>
+					<p>Myanmar was an open cage where they feared persecution, torture and death. Today they have lost their identity and are called Forcibly Displaced Myanmar Nationals. Nationals, not citizens, not even refugees, nor are they Rohingyas. That was the price they paid for a safer, but closed cage in Bangladesh.&nbsp;</p>
+					<p>I photographed a community that is always running from fire. They run into Bangladesh, take a break, traffic themselves to Thailand, rest in another hell, go to Malaysia, which never meets their dreams, take another break, go to Indonesia, feeling Australia is better – probably the heaven and the promised land. Along the way their boats capsize and thousands die. Many thousand miles away, there is Myanmar, a most unwelcoming home in human history.&nbsp;</p>
+					<p>A child who has seen the most terrible of human atrocities, a woman in search of the non-existent heaven, a family in search of a place called happiness, a man who looks across the border in search of his father’s graveyard…I photographed it all.&nbsp;</p>
+					<p>Travelling back and forth to the camps, I spent months making portraits of Rohingya youth and listening to stories of villages back home, where they hoped to return one day. The result was a complex layering of landscapes, portraits, found photographs, personal testimonies and my own narratives. Being a mother of twin daughters, who had gone to a foreign land for university, I sought young faces at the camps who had lost their dreams, and what comfort those dreams brought  them. These, too I recorded. I invited them to sit for a portrait, a simple, direct, respectful rendering of one person, or a group in front of the wooden box camera. My Studio was the shared space showing the rawness and delicate intimacy of interpersonal relationships, of love, of fear and helplessness. The portrait remains at the core of the work, my journey into discovering their lives. While most of the pictures are made in a makeshift studio, some were created outside the studio in the open and there is a bit of a release. </p>
+					<p>A young mother stands on the seashore, barefoot, lost, looking at the sky, asking God ‘Why is there no place called home?’…. I photographed that too. Helpless in my existence, my camera captured life as they knew it to be- an escape, an unbearable journey, a never ending path to a future unknown.</p> -->
 				</div>
-				<div class="column">
+				<!-- <div class="column">
 					<p>The project features Hijras in Bangladesh, as well as a number of Hijras who migrated to India. While Hijras continue to face discrimination once in India, some have found greater social acceptance than in Bangladesh. At the same time, many Hijras in Bangladesh and other South Asian countries have stood up for their rights and gained at least limited legal recognition</p>
 				</div>
 				<div class="column">
 					<p>for a third gender. I hope my work will help amplify Hijra voices that are largely quieted, and inspire Hijras to open even more space for themselves within Bangladeshi society.</p>
-				</div>
+				</div> -->
 			</div>
 			<div class="imageElement">
 				<a data-fancybox="fancy-gallery" href="<?php echo $sSiteURL; ?>media/imgAll/bg/1.jpg">
@@ -263,6 +281,80 @@
 		});
 	};
 </script>
+<script>
+	var qEl = $('#container .post .column');
+	var qElNo = 0
+	var nextColEl = document.createElement('div')
+	nextColEl.classList.add('column')
+	nextColEl.classList.add('columnNext')
+	var nextText = '';
+
+	$(document).ready(function () {
+		if (qEl[qElNo].scrollHeight > qEl.innerHeight()) {
+			// console.log('here');
+			let elements = document.querySelectorAll('#container .post .column')[qElNo]
+			nextColEl.innerHTML = ''
+			removeEl(elements)
+		}
+	});
+
+	function removeEl(elements) {
+		let lastEl = elements.lastElementChild;
+		nextColEl.prepend(elements.lastElementChild)
+		// nextColEl.append(elements.lastElementChild, nextColEl.firstChild);
+		// elements.removeChild(elements.lastElementChild);
+		// console.log(nextColEl);
+
+		if (qEl[qElNo].scrollHeight > qEl.innerHeight()) {
+			if(qElNo>0){
+				console.log(qEl[qElNo].scrollHeight);
+			}
+			removeEl(elements)
+		}else{
+			elements.parentNode.insertBefore(nextColEl, elements.nextSibling);
+			elements.append(lastEl)
+			nextText = '';
+			let newPrevPara = document.createElement('p')
+			removeText(elements,lastEl,newPrevPara)
+		}
+	}
+
+	function removeText(elements, lastEl, newPrevPara) {
+		let lastText = lastEl.innerText
+		// console.log(lastText);
+
+		let lastIndex = lastText.lastIndexOf(" ");
+		nextText = lastText.substring(lastIndex, lastText.length)+nextText;
+		lastText = lastText.substring(0, lastIndex);
+		// nextText = nextText+lastText.substring(0, lastIndex);
+		// lastText = lastText.substring(lastIndex+1, lastText.length);
+		// console.log(lastText);
+		// console.log(nextText);
+
+		lastEl.innerHTML = lastText
+		
+		newPrevPara.innerText=nextText
+		nextColEl.prepend(newPrevPara)
+
+		if (qEl[qElNo].scrollHeight > qEl.innerHeight()) {
+			// console.log(elements);
+			removeText(elements, lastEl, newPrevPara)
+		}
+		else{
+			nextColEl = document.createElement('div')
+			nextColEl.classList.add('column')
+			nextColEl.classList.add('columnNext')
+
+			qEl = $('#container .post .column')
+			qElNo++;
+			if (qEl[qElNo].scrollHeight > qEl.innerHeight()) {
+				let newElements = document.querySelectorAll('#container .post .column')[qElNo]
+				console.log(newElements);
+				nextColEl.innerHTML = ''
+				removeEl(newElements)
+			}
+		}
+	}
 </script>
 <?php echo $sJSFancyBox;?>
 <?php echo $sJSEMM; ?>
